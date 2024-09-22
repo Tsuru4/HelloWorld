@@ -1,0 +1,14 @@
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/allyncrane/Documents/BYU-I/2024F/CSE310/HelloWorld/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
